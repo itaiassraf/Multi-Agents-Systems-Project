@@ -1,0 +1,1658 @@
+[
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 51,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 49,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 52,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 48,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 53,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 47,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 55,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 45,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 56,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 44,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 57,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 43,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 65,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 35,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 68,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 32,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 70,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 30,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 49,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 51,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 48,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 52,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 47,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 53,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 45,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 55,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 44,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 56,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 43,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 57,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 35,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 65,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 32,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 68,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 2
+                }
+            ]
+        }
+    },
+    {
+        "A": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 30,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 70,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 3
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5151,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4949,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5252,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4848,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5353,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4747,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5656,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4444,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5757,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4343,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 5858,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 4242,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 6565,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 3535,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 6868,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 3232,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 7070,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 3030,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4949,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5151,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4848,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5252,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4747,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5353,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4444,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5656,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4343,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5757,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 4242,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 5858,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 3535,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 6565,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 3232,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 6868,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 2
+                }
+            ]
+        }
+    },
+    {
+        "B": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 3030,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 7070,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 3
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 61251,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 58849,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 62452,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 57648,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 63653,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 56447,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 67256,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 52844,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 68457,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 51643,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 69658,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 50442,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 78065,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 42035,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 81668,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 38432,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 84070,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 36030,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 58849,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 61251,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 57648,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 62452,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 56447,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 63653,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 52844,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 67256,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 51643,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 68457,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 50442,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 69658,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 42035,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 78065,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 38432,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 81668,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 2
+                }
+            ]
+        }
+    },
+    {
+        "C": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 36030,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 84070,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 3
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 510000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 490000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 520000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 480000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 530000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 470000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 560000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 440000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 580000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 420000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 590000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 410000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 650000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 350000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 680000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 320000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 710000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 290000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 490000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 510000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 480000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 520000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 470000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 530000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 440000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 560000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 420000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 580000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 10
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "red",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 410000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 590000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 20
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 350000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 650000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 1
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 320000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 680000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 2
+                }
+            ]
+        }
+    },
+    {
+        "D": {
+            "question": "Vote Now !",
+            "winner": "blue",
+            "choices": [
+                {
+                    "text": "red",
+                    "votes": 290000,
+                    "coins": 100
+                },
+                {
+                    "text": "blue",
+                    "votes": 710000,
+                    "coins": 0
+                },
+                {
+                    "text": "No Vote",
+                    "votes": -1,
+                    "coins": 3
+                }
+            ]
+        }
+    }
+]
